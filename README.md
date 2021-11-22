@@ -8,7 +8,7 @@ Welcome to NC-News! A website dedicated to give users the ability to share their
 
 ### Front End:
 
-#### [github.com/Elbeera/nc-news](https://github.com/Elbeera/nc-news)
+#### [github.com/Elbeera/My-NC-News-FE](https://github.com/Elbeera/My-NC-News-FE)
 
 <br />
 
